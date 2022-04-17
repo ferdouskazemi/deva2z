@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+ $body-color: #4b4b4b;
+
+//Styles Goes Here
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: "unicorns";
+  src: local("unicorns"),
+    url(./assets/fonts/unicorns.regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: "harry";
+  src: local("harry"), url(./assets/fonts/harry-potter.ttf) format("truetype");
+}
+@font-face {
+  font-family: "shutter";
+  src: local("shutter"), url(./assets/fonts/shutter.ttf) format("truetype");
+}
+@font-face {
+  font-family: "lily";
+  src: local("lily"), url(./assets/fonts/lily-script-one.regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: "belinda";
+  src: local("belinda"), url(./assets/fonts/belinda.otf) format("truetype");
+}
+@font-face {
+  font-family: "lato-bold";
+  src: local("lato-bold"), url(./assets/fonts/Lato-boldItalic.ttf) format("truetype");
+}

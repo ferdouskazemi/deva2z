@@ -1,0 +1,109 @@
+.nav-grid-container {
+  height: 100vh;
+}
+.box-grid-container {
+  display: block;
+  overflow: hidden;
+  transition: 0.35s;
+  position: relative;
+}
+.aboutUs-container {
+  background-image: linear-gradient(to top, #1d2f539f, #1d2f53f8),
+    url("./../../../assets/images/aboutusimage.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+.service-container {
+  background: linear-gradient(to top, #b213289f, #b21328f6),
+    url("./../../../assets/images/service.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+.portfolio-container {
+  background: linear-gradient(to top, #024631da, #024631e7),
+    url("./../../../assets/images/portfolio.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+.feedback-container {
+  background: linear-gradient(to top, #53242ad8, #53242ae8),
+    url("./../../../assets/images/gallery.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+.faq-container {
+  background: linear-gradient(to top, #351e56e0, #351e56ea),
+    url("./../../../assets/images/faq.JPG");
+  background-size: cover;
+  background-position: center right;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+.contact-container {
+  background: linear-gradient(to top, #cd853dda, #cd853dec),
+    url("./../../../assets/images/contact-map.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  position: relative;
+}
+.bg-holder {
+  position: absolute;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  transition: 0.4s ease-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+}
+.bg-holder:hover {
+  transform: scale(1.1);
+  transition: 0.4s ease-in;
+  cursor: pointer;
+}
+.bg-holder:hover .text-wrapper {
+  transform: scale(0.8);
+  transition: 0.4s ease-in;
+}
+.text-wrapper img {
+  width: 40px;
+  height: 40px;
+}
+.text-wrapper {
+  padding: 5px;
+  transition: 0.4s ease-out;
+}
+.text-wrapper h3 {
+  font-family: unicorns, Courier, monospace;
+  font-size: xx-large;
+  margin-top: 15px;
+  color: white;
+}
+.text-wrapper .faIcon {
+  font-size: xx-large;
+  color: white;
+}
+
+@media only screen and (max-width: 596px) {
+  .nav-grid-container {
+    height: 400px;
+  }
+  .text-wrapper .faIcon {
+    font-size: large;
+    color: white;
+  }
+  .text-wrapper h3 {
+  font-family: unicorns, Courier, monospace;
+  font-size: x-large;
+  margin-top: 15px;
+  color: white;
+}
+}
