@@ -1,0 +1,526 @@
+<!-- <div class="col-md-4">
+        <section class="mx-auto my-3 upwork-box" style="max-width: 23rem">
+          <div class="card booking-card v-2 mt-2 mb-4 rounded-bottom">
+            <div
+              class="bg-image hover-overlay ripple ripple-surface ripple-surface-light"
+              data-mdb-ripple-color="light"
+            >
+              <img
+                src="./../../../assets/images/upwork.jpg"
+                class="img-fluid"
+              />
+              <a href="#!">
+                <div
+                  class="mask"
+                  style="background-color: rgba(251, 251, 251, 0.15)"
+                ></div>
+              </a>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title font-weight-bold">HTML add location 👏</h5>
+              <ul class="list-unstyled list-inline mb-2">
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+              </ul>
+              <p class="card-text">
+                HTML add location selection to 3rd party widget. Same as last
+                time. Super helpful. Got the work done in super fast time. Very
+                proactive!
+              </p>
+              <small>Upwork Client</small>
+            </div>
+          </div>
+        </section>
+      </div> 
+      <div class="col-md-4">
+        <section class="mx-auto my-3 upwork-box" style="max-width: 23rem">
+          <div class="card booking-card v-2 mt-2 mb-4 rounded-bottom">
+            <div
+              class="bg-image hover-overlay ripple ripple-surface ripple-surface-light"
+              data-mdb-ripple-color="light"
+            >
+              <img
+                src="./../../../assets/images/upwork.jpg"
+                class="img-fluid"
+              />
+              <a href="#!">
+                <div
+                  class="mask"
+                  style="background-color: rgba(251, 251, 251, 0.15)"
+                ></div>
+              </a>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title font-weight-bold">
+                Completed Successfully! 👏
+              </h5>
+              <ul class="list-unstyled list-inline mb-2">
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+              </ul>
+              <p class="card-text">
+                DevA2Z was very innovative and did the work I had exceptionally
+                well. He was also good at communicating and his made managing
+                the project easy. I would highly.
+              </p>
+              <small>Upwork Client</small>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div class="col-md-4">
+        <section class="mx-auto my-3 upwork-box" style="max-width: 23rem">
+          <div class="card booking-card v-2 mt-2 mb-4 rounded-bottom">
+            <div
+              class="bg-image hover-overlay ripple ripple-surface ripple-surface-light"
+              data-mdb-ripple-color="light"
+            >
+              <img
+                src="./../../../assets/images/upwork.jpg"
+                class="img-fluid"
+              />
+              <a href="#!">
+                <div
+                  class="mask"
+                  style="background-color: rgba(251, 251, 251, 0.15)"
+                ></div>
+              </a>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title font-weight-bold">Flutter Task 👏</h5>
+              <ul class="list-unstyled list-inline mb-2">
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+              </ul>
+              <p class="card-text">
+                Well experienced with flutter technology nice to work with
+                you.Thanks
+              </p>
+              <small>Upwork Client</small>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div class="col-md-4">
+        <section class="mx-auto my-3 upwork-box" style="max-width: 23rem">
+          <div class="card booking-card v-2 mt-2 mb-4 rounded-bottom">
+            <div
+              class="bg-image hover-overlay ripple ripple-surface ripple-surface-light"
+              data-mdb-ripple-color="light"
+            >
+              <img
+                src="./../../../assets/images/upwork.jpg"
+                class="img-fluid"
+              />
+              <a href="#!">
+                <div
+                  class="mask"
+                  style="background-color: rgba(251, 251, 251, 0.15)"
+                ></div>
+              </a>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title font-weight-bold">IOS Task! 👏</h5>
+              <ul class="list-unstyled list-inline mb-2">
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+              </ul>
+              <p class="card-text">
+                DevA2Z is the best in IOS field. He kept his commitment about
+                the deadline and helped me solve my problem taking authority. I
+                highly recommend him. Thank you.
+              </p>
+              <small>Upwork Client</small>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div class="col-md-4">
+        <section class="mx-auto my-3 upwork-box" style="max-width: 23rem">
+          <div class="card booking-card v-2 mt-2 mb-4 rounded-bottom">
+            <div
+              class="bg-image hover-overlay ripple ripple-surface ripple-surface-light"
+              data-mdb-ripple-color="light"
+            >
+              <img
+                src="./../../../assets/images/upwork.jpg"
+                class="img-fluid"
+              />
+              <a href="#!">
+                <div
+                  class="mask"
+                  style="background-color: rgba(251, 251, 251, 0.15)"
+                ></div>
+              </a>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title font-weight-bold">HTML Bug Fix 👏</h5>
+              <ul class="list-unstyled list-inline mb-2">
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+              </ul>
+              <p class="card-text">
+                streamlined. very efficient. no delay. very fast.
+              </p>
+              <small>Upwork Client</small>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div class="col-md-4">
+        <section class="mx-auto my-3 upwork-box" style="max-width: 23rem">
+          <div class="card booking-card v-2 mt-2 mb-4 rounded-bottom">
+            <div
+              class="bg-image hover-overlay ripple ripple-surface ripple-surface-light"
+              data-mdb-ripple-color="light"
+            >
+              <img
+                src="./../../../assets/images/upwork.jpg"
+                class="img-fluid"
+              />
+              <a href="#!">
+                <div
+                  class="mask"
+                  style="background-color: rgba(251, 251, 251, 0.15)"
+                ></div>
+              </a>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title font-weight-bold">Flutter Code 👏</h5>
+              <ul class="list-unstyled list-inline mb-2">
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+              </ul>
+              <p class="card-text">
+                DevA2Z has done a great job, he has strong knowledge of mobile
+                app development. We will work with him again.
+              </p>
+              <small>Upwork Client</small>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div class="col-md-4">
+        <section class="mx-auto my-3 upwork-box" style="max-width: 23rem">
+          <div class="card booking-card v-2 mt-2 mb-4 rounded-bottom">
+            <div
+              class="bg-image hover-overlay ripple ripple-surface ripple-surface-light"
+              data-mdb-ripple-color="light"
+            >
+              <img
+                src="./../../../assets/images/upwork.jpg"
+                class="img-fluid"
+              />
+              <a href="#!">
+                <div
+                  class="mask"
+                  style="background-color: rgba(251, 251, 251, 0.15)"
+                ></div>
+              </a>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title font-weight-bold">
+                Completed Successfully! 👏
+              </h5>
+              <ul class="list-unstyled list-inline mb-2">
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+              </ul>
+              <p class="card-text">
+                I had a good time working with DevA2Z and will be back in the
+                future to work with him again. Very talented developer.
+              </p>
+              <small>Upwork Client</small>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div class="col-md-4">
+        <section class="mx-auto my-3 upwork-box" style="max-width: 23rem">
+          <div class="card booking-card v-2 mt-2 mb-4 rounded-bottom">
+            <div
+              class="bg-image hover-overlay ripple ripple-surface ripple-surface-light"
+              data-mdb-ripple-color="light"
+            >
+              <img
+                src="./../../../assets/images/upwork.jpg"
+                class="img-fluid"
+              />
+              <a href="#!">
+                <div
+                  class="mask"
+                  style="background-color: rgba(251, 251, 251, 0.15)"
+                ></div>
+              </a>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title font-weight-bold">Flutter Code! 👏</h5>
+              <ul class="list-unstyled list-inline mb-2">
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+              </ul>
+              <p class="card-text">
+                DevA2Z is a great Flutter Developer !!! super serious. super
+                devoted. DevA2Z up all night to finish the job dute to a hard
+                deadline, completed the job successfully...
+              </p>
+              <small>Upwork Client</small>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div class="col-md-4">
+        <section class="mx-auto my-3 upwork-box" style="max-width: 23rem">
+          <div class="card booking-card v-2 mt-2 mb-4 rounded-bottom">
+            <div
+              class="bg-image hover-overlay ripple ripple-surface ripple-surface-light"
+              data-mdb-ripple-color="light"
+            >
+              <img
+                src="./../../../assets/images/upwork.jpg"
+                class="img-fluid"
+              />
+              <a href="#!">
+                <div
+                  class="mask"
+                  style="background-color: rgba(251, 251, 251, 0.15)"
+                ></div>
+              </a>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title font-weight-bold">
+                Completed Successfully! 👏
+              </h5>
+              <ul class="list-unstyled list-inline mb-2">
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+              </ul>
+              <p class="card-text">
+                one of the best and dynamic guys to work with them. Understands
+                your requirements and goes extra mile...
+              </p>
+              <small>Upwork Client</small>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div class="col-md-4">
+        <section class="mx-auto my-3 upwork-box" style="max-width: 23rem">
+          <div class="card booking-card v-2 mt-2 mb-4 rounded-bottom">
+            <div
+              class="bg-image hover-overlay ripple ripple-surface ripple-surface-light"
+              data-mdb-ripple-color="light"
+            >
+              <img
+                src="./../../../assets/images/upwork.jpg"
+                class="img-fluid"
+              />
+              <a href="#!">
+                <div
+                  class="mask"
+                  style="background-color: rgba(251, 251, 251, 0.15)"
+                ></div>
+              </a>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title font-weight-bold">Python Task ! 👏</h5>
+              <ul class="list-unstyled list-inline mb-2">
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+              </ul>
+              <p class="card-text">
+                Prefect Python Developer. They solved a lot of the complications
+                and did the work as expected exactly...
+              </p>
+              <small>Upwork Client</small>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div class="col-md-4">
+        <section class="mx-auto my-3 upwork-box" style="max-width: 23rem">
+          <div class="card booking-card v-2 mt-2 mb-4 rounded-bottom">
+            <div
+              class="bg-image hover-overlay ripple ripple-surface ripple-surface-light"
+              data-mdb-ripple-color="light"
+            >
+              <img
+                src="./../../../assets/images/upwork.jpg"
+                class="img-fluid"
+              />
+              <a href="#!">
+                <div
+                  class="mask"
+                  style="background-color: rgba(251, 251, 251, 0.15)"
+                ></div>
+              </a>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title font-weight-bold">
+                DigitalOcean`s Droplet 👏
+              </h5>
+              <ul class="list-unstyled list-inline mb-2">
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+                <li class="list-inline-item me-0" style="color: gold">
+                  <fa-icon [icon]="faStar"></fa-icon>
+                </li>
+              </ul>
+              <p class="card-text">
+                Trainig on how to use DigitalOcean`s Droplet running Strapi!
+                Completed job on time and was a pleasure to work with.
+              </p>
+              <small>Upwork Client</small>
+            </div>
+          </div>
+        </section>
+      </div> -->

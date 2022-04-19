@@ -4,10 +4,10 @@ import { faTimes } from '@fortawesome/free-solid-svg-icons';
 @Component({
   selector: 'app-faq',
   templateUrl: './faq.component.html',
-  styleUrls: ['./faq.component.scss']
+  styleUrls: ['./faq.component.scss'],
 })
-export class FaqComponent  {
+export class FaqComponent {
   currentYear = new Date().getFullYear();
-  faTimes = faTimes
-  constructor() { }
+  faTimes = faTimes;
+  constructor() {}
 }
